@@ -1,6 +1,6 @@
 # NitGen Discord Bot
 
-![NitGen Logo](nitgen-logo.png)
+![NitGen Logo](https://media.discordapp.net/attachments/1063432232716488786/1135287735670820964/image.png)
 
 NitGen is a powerful Discord bot designed to generate Nitro codes. Discord Nitro offers premium perks and features on the platform, including access to exclusive content, animated emojis, and boosted servers. However, it's essential to note that generating a working Nitro code is an exceedingly rare occurrence. To ensure the security of the bot and verify requests, a token-based authentication system is implemented.
 
